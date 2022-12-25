@@ -1,37 +1,27 @@
 - name: GitHub
-  url: http://github.com/phlow
+  url: http://github.com/thekpaul
   class: icon-github
-  title: Code und mehr...
+  title: "GitHub"
 
-- name: YouTube
-  url: http://www.youtube.com/PhlowMedia
-  class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+- name: Facebook
+  url: http://www.fb.me/thekpaul
+  class: icon-facebook
+  title: "Facebook"
 
-- name: Twitter
-  url: http://twitter.com/phlow
-  class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+- name: Instagram
+  url: http://instagram.com/thekpaul
+  class: icon-instagram
+  title: "Instagram"
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
+- name: LinkedIn
+  url: "https://www.linkedin.com/in/thekpaul"
+  class: icon-linkedin
+  title: "LinkedIn"
 
-# - name: Facebook
-#   url: http://www.facebook.com/
-#   class: icon-facebook
-#   title: ""
-
-# - name: Soundcloud
-#   url: http://soundcloud.com/
-#   class: icon-soundcloud
-#   title: ""
-
-# - name: Instagram
-#   url: http://instagram.com/
-#   class: icon-instagram
-#   title: ""
+- name: StackOverflow
+  url: "https://stackoverflow.com/users/6834127/paul-kim"
+  class: icon-stackoverflow
+  title: "StackOverflow"
 
 # - name: Pinterest
 #   url: http://www.pinterest.com/
@@ -42,3 +32,18 @@
 #   url: https://www.xing.com/profile/
 #   class: icon-xing
 #   title: Xing Profil
+
+# - name: YouTube
+#   url: http://www.youtube.com/PhlowMedia
+#   class: icon-youtube
+#   title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+
+# - name: Twitter
+#   url: http://twitter.com/phlow
+#   class: icon-twitter
+#   title: "Immer das Neuste von Phlow gibt es auf Twitter"
+
+# - name: Mixcloud
+#   url: http://www.mixcloud.com/phlow/
+#   class: icon-cloud
+#   title: "Mixe, was sonst?"
